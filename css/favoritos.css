@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+.listaFotos{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+#volver{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    width: 30%;
+    height: 30px;
+    border-radius: 5px;
+    color: #BB2D3B;
+    background-color: white ;
+}
+#volver:hover{
+    color: white;
+    background-color: #BB2D3B;
+}

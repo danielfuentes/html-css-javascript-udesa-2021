@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+.encabezado{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.buscar{
+    width: 40%;
+    border-radius: 10px;
+}
+#boton{
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+}
+#buscar{
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+    
+}
+.logo{
+    width: 10%;
+}
+.tituloGaleria{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: white;
+    background-color: teal;
+    text-align: center;
+    padding: 20px;
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagenes{
+    width: 25%;
+}
+
+
+
+

@@ -1,0 +1,15 @@
+.destacado{
+    color: white;
+    background-color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+.enlaceRef{
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+
