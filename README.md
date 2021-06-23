@@ -5,7 +5,7 @@
    <li>CSS3 </li>  
    <li>JavaScript</li>
 </ul>
-<p>Recursos de Javascript utilizados: Consumo de API ( En esta oportunidad utilizamos de ejemplo la API de <a href='https://pixabay.com/es/' /> , variables, 
+<p>Recursos de Javascript utilizados: Consumo de API ( En esta oportunidad utilizamos de ejemplo la API de <a href='https://pixabay.com/es/'>Pixabay</a> , variables, 
 operadores, bucles, condicionales, manejo del DOM, Fetch, Webstorage </p>
 
 <h4>ESpero les resulte de utilidad </h4>
